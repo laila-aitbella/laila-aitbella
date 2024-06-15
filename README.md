@@ -12,7 +12,7 @@
 
 ### Skills and Interests
 - **Data Science & Analytics**: Proficient in using Python, Pandas, NumPy, and scikit-learn for data analysis and machine learning projects.
-- **Machine Learning & Deep Learning**: Experienced with TensorFlow and PyTorch for building predictive models and neural networks.
+- **Machine Learning & Deep Learning**: Experienced with TensorFlow and PyTorch, scikit-learn for building predictive models and neural networks.
 - **Finance**: Focused on predictive analytics, financial modeling.
 
 ### Current Projects
