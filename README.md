@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Laila</h1>
 <h3 align="center">👋 Hi there! I'm Laila, a first-year student in digital engineering for finance at ENSIAS. My passion for data drives me to explore its applications in the financial sector.</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+
 
 - 🌍 I am located in Rabat, Morocco.
 - 📚 I am studying digital engineering for finance at **ENSIAS**.
