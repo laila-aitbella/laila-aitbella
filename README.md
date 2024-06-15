@@ -1,4 +1,4 @@
-![Banner Image](https://C:\Users\hp\OneDrive\Bureau\linkedin.png.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Laila</h1>
 <h3 align="center">👋 Hi there! I'm Laila, a first-year student in digital engineering for finance at ENSIAS. My passion for data drives me to explore its applications in the financial sector.</h3>
