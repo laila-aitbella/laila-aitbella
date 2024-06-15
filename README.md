@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm laila</h1>
-<h3 align="center">👋 Hi there! I'm **Laila**, a first-year student in digital engineering for finance at ENSIAS. My passion for data drives me to explore its applications in the financial sector.</h3>
+<h1 align="center">Hi 👋, I'm Laila</h1>
+<h3 align="center">👋 Hi there! I'm Laila, a first-year student in digital engineering for finance at ENSIAS. My passion for data drives me to explore its applications in the financial sector.</h3>
 
-- 📫 How to reach me **aitbellalaila3@gmail.com**
+- 🌍 I am located in Rabat, Morocco.
+- 📚 I am studying digital engineering for finance at **ENSIAS**.
+- 💡 I am passionate about **Data Science** and its applications in finance.
+- 🤝 I am open to collaborations on **Data Science** or **Software Development** projects.
+- 📫 How to reach me: **aitbellalaila3@gmail.com**
+
+Feel free to connect with me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
