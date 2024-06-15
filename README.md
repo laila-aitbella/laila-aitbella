@@ -10,6 +10,19 @@
 - 🤝 I am open to collaborations on **Data Science** or **Software Development** projects.
 - 📫 How to reach me: **aitbellalaila3@gmail.com**
 
+### Skills and Interests
+- **Data Science & Analytics**: Proficient in using Python, Pandas, NumPy, and scikit-learn for data analysis and machine learning projects.
+- **Machine Learning & Deep Learning**: Experienced with TensorFlow and PyTorch for building predictive models and neural networks.
+- **Finance**: Focused on predictive analytics, financial modeling.
+
+### Current Projects
+- **Image Classification**: Implementing machine learning models to classify images from various datasets.
+
+
+### Goals
+I'm eager to gain practical experience through internships and collaborative projects. My goal is to leverage data science to innovate and improve financial services.
+
+
 Feel free to connect with me!
 
 <h3 align="left">Connect with me:</h3>
