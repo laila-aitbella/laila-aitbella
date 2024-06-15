@@ -16,7 +16,7 @@
 - **Finance**: Focused on predictive analytics, financial modeling.
 
 ### Current Projects
-- **Image Classification**: Implementing machine learning models to classify images from various datasets.
+- **Image Classification**: Implementing machine learning  and deep learning models to classify images from various datasets.
 
 
 ### Goals
